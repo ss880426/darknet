@@ -1,0 +1,9 @@
+classes= 16
+
+train  =/home/steven/darknet/build/darknet/x64/data/train_station/cfg/train.txt
+
+valid  =/home/steven/darknet/build/darknet/x64/data/train_station/cfg/test.txt
+
+names = /home/steven/darknet/build/darknet/x64/data/train_station/cfg/obj.names
+
+backup =/home/steven/darknet/build/darknet/x64/data/train_station/cfg/weights

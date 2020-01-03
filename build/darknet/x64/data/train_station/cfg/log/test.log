@@ -1,0 +1,20 @@
+yolov-obj
+batch = 4, time_steps = 1, train = 1 
+yolov3-tiny-1
+batch = 3, time_steps = 1, train = 1 
+yolov3-tiny-1
+batch = 3, time_steps = 1, train = 1 
+
+ seen 64 
+Learning Rate: 0.001, Momentum: 0.9, Decay: 0.0005
+yolov3-tiny-1
+batch = 3, time_steps = 1, train = 1 
+
+ seen 64 
+Learning Rate: 0.001, Momentum: 0.9, Decay: 0.0005
+yolov3-tiny-1
+batch = 8, time_steps = 1, train = 1 
+
+ seen 64 
+Learning Rate: 0.001, Momentum: 0.9, Decay: 0.0005
+yolov3-tiny
